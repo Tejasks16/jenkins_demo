@@ -1,5 +1,5 @@
 #!/bin/bash
-#hi there
+echo "This is shell program"
 val="5 4 3 2 1"
 for i in $val
 do
